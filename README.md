@@ -15,7 +15,7 @@ Currently focused on mastering both frontend and backend technologies.
 
 📫 How to reach me:
 - [junesveryown6ix@gmail.com](mailto:junesveryown6ix@gmail.com)
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/daniel-johnson-4b7578180?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/xylemic)
 - [Follow me on Twitter](https://twitter.com/daniel__thanks)
 
 ⚡ Fun fact: I love experimenting with new coding challenges and creating small web projects in my free time!
