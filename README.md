@@ -1,9 +1,9 @@
-### Hi there, I'm Daniel Johnson 👋
+### Hi there, I'm Daniel Johnson 
 
 I'm a passionate learner diving into the world of web development through a bootcamp program. 
 Currently focused on mastering both frontend and backend technologies.
 
-🌱 I’m currently learning:
+ I’m currently learning:
 - Frontend technologies like HTML, CSS, and JavaScript.
 - Backend technologies including Node.js, Express, and MongoDB.
 - Web development frameworks such as React.js.
@@ -14,7 +14,7 @@ Currently focused on mastering both frontend and backend technologies.
 - Advice on transitioning to a tech career.
 
 📫 How to reach me:
-- [junesveryown6ix@gmail.com](mailto:junesveryown6ix@gmail.com)
+- [junesveryown6ix@gmail.com](mailto:danielbobbyjohnson@gmail.com)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/xylemic)
 - [Follow me on Twitter](https://twitter.com/daniel__thanks)
 
