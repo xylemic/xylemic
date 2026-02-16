@@ -1,21 +1,22 @@
-### Hi there, I'm Daniel Johnson 
+# daniel johnson
 
-I'm a passionate learner diving into the world of web development through a bootcamp program. 
-Currently focused on mastering both frontend and backend technologies.
+backend & systems engineer focused on understanding how things 
+work beneath the framework layer.
 
- I’m currently learning:
-- Frontend technologies like HTML, CSS, and JavaScript.
-- Backend technologies including Node.js, Express, and MongoDB.
-- Web development frameworks such as React.js.
+currently rebuilding core backend knowledge from first principles  
+HTTP, auth, databases, and working my way toward distributed systems 
+and networking internals.
 
-💬 Ask me about:
-- My journey into web development.
-- Tips for learning coding efficiently.
-- Advice on transitioning to a tech career.
+## what I'm working on
+- HTTP server from scratch (no Express — core node.js `http` module)
+- manual JWT implementation, rate limiting, middleware chaining
+- raw PostgreSQL — no ORM, understanding query execution properly
 
-📫 How to reach me:
-- [junesveryown6ix@gmail.com](mailto:danielbobbyjohnson@gmail.com)
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/xylemic)
-- [Follow me on Twitter](https://twitter.com/daniel__thanks)
+## interests
+distributed systems · networking internals · database internals · OS fundamentals
 
-⚡ Fun fact: I love experimenting with new coding challenges and creating small web projects in my free time!
+## stack
+node.js · PostgreSQL · linux
+
+## writing
+documenting the process on Twitter → @[in_construction]
